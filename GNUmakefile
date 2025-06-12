@@ -1,3 +1,5 @@
+INSTALLATION_DOMAIN = SYSTEM
+
 include $(GNUSTEP_MAKEFILES)/common.make
 
 FRAMEWORK_NAME = FBVirtualization
