@@ -1,6 +1,6 @@
-#import "FBVirtualMachine.h"
-#import "FBVirtualMachineDelegate.h"
-#import "FBVirtualMachineState.h"
+#import <FBVirtualMachine.h>
+#import <FBVirtualMachineDelegate.h>
+#import <FBVirtualMachineState.h>
 
 @interface VZVirtualMachine ()
 @property (nonatomic, strong) VZVirtualMachineConfiguration *configuration;

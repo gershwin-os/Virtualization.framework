@@ -1,4 +1,4 @@
-#import "FBVirtioNetworkDeviceConfiguration.h"
+#import <FBVirtioNetworkDeviceConfiguration.h>
 
 @implementation VZVirtioNetworkDeviceConfiguration
 

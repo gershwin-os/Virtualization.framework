@@ -1,5 +1,5 @@
-#import "FBSerialPortConfiguration.h"
-#import "FBFileHandleSerialPortAttachment.h"
+#import <FBSerialPortConfiguration.h>
+#import <FBFileHandleSerialPortAttachment.h>
 
 @implementation VZSerialPortConfiguration
 

@@ -1,4 +1,4 @@
-#import "FBNetworkDeviceConfiguration.h"
+#import <FBNetworkDeviceConfiguration.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

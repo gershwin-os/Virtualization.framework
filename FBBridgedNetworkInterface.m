@@ -1,4 +1,4 @@
-#import "FBBridgedNetworkInterface.h"
+#import <FBBridgedNetworkInterface.h>
 
 @implementation VZBridgedNetworkInterface
 

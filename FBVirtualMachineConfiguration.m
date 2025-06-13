@@ -1,4 +1,4 @@
-#import "FBVirtualMachineConfiguration.h"
+#import <FBVirtualMachineConfiguration.h>
 
 @implementation VZVirtualMachineConfiguration
 

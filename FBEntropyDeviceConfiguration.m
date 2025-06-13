@@ -1,4 +1,4 @@
-#import "FBEntropyDeviceConfiguration.h"
+#import <FBEntropyDeviceConfiguration.h>
 
 @implementation VZEntropyDeviceConfiguration
 @end

@@ -1,4 +1,4 @@
-#import "FBStorageDeviceConfiguration.h"
+#import <FBStorageDeviceConfiguration.h>
 
 @implementation VZStorageDeviceConfiguration
 @end
